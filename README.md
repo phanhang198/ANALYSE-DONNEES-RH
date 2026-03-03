@@ -45,10 +45,47 @@ Variables importantes liées à l’attrition :
 
 ---
 
-Overview
+🟡  OVERVIEW
 
 <img width="900" height="493" alt="image" src="https://github.com/user-attachments/assets/55049f12-b822-4025-9996-7ca9b5d62167" />
 
+🟡  DEFINE → Identifier les facteurs critiques
+🎛️ Page 2 : Drivers d’Attrition
+1️⃣ Attrition vs MonthlyIncome
+
+👉 Voir si bas salaire = départ
+
+2️⃣ Attrition vs YearsSinceLastPromotion
+
+Column chart
+
+Montrer attrition moyenne par ancienneté sans promotion
+
+👉 Identifier frustration carrière
+
+3️⃣ Attrition vs WorkLifeBalance
+
+Bar chart
+
+Valeur moyenne d’attrition par niveau
+
+👉 Vérifier l’impact équilibre vie pro/perso
+
+4️⃣ Matrice de corrélation (si possible)
+
+Créer une matrice avec :
+
+JobSatisfaction
+
+EnvironmentSatisfaction
+
+WorkLifeBalance
+
+RelationshipSatisfaction
+
+Attrition
+
+👉 Identifier les variables critiques
 
 # 2️⃣ Define (Définir le problème)
 

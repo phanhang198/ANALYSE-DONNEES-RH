@@ -59,6 +59,7 @@ Variables importantes liées à l’attrition :
 2️⃣ Attrition vs YearsSinceLastPromotion
 <img width="753" height="526" alt="image" src="https://github.com/user-attachments/assets/c11730d6-6fab-4b3d-9437-eff3f999d6e9" />
 
+
 3️⃣ Attrition vs YearsAtCompany
 <img width="729" height="532" alt="image" src="https://github.com/user-attachments/assets/4b457b93-8eab-447b-81e0-db07c2a648a4" />
 
